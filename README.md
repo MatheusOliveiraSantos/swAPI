@@ -1,4 +1,6 @@
-<h1> Star-Wars API <h1/>
+<h1> Star-Wars API <h1/> 
+
+![home_page](https://user-images.githubusercontent.com/85200731/177422018-a6099d54-4a9a-4ed8-a30e-76b0787bbe71.png)
 
 > Status: Developing⚠️
 
